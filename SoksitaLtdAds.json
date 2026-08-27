@@ -20,14 +20,14 @@
       
       "AdInterval"         : 1,
       
-      "NativeAdRow"        : 0,
+      "NativeAdRow"        : 10,
 
       "AdPlacement": {
         
-        "AdMobBanner"         : "",
-        "AdMobInterstitial"   : "",
-        "AdMobNative"         : "",
-        "AdMobOpenAd"         : "",
+        "AdMobBanner"         : "ca-app-pub-1043776732490279/6855849041",
+        "AdMobInterstitial"   : "ca-app-pub-1043776732490279/5967107506",
+        "AdMobNative"         : "ca-app-pub-1043776732490279/5542767379",
+        "AdMobOpenAd"         : "ca-app-pub-1043776732490279/4654025834",
         
         "FacebookBanner"      : "",
         "FacebookInterstitial": "",
@@ -49,7 +49,7 @@
     ]
   },
   
-  "AppsPromote": [
+"AppsPromote": [
     {
       "name": "Music Dadju & lyrics Offline",
       "packageName": "com.Anonyme.Dadju.SoksitaLtd",
